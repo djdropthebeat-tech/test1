@@ -30,6 +30,6 @@ __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 
 <u>밑줄</u>은 마크다운에서 지원하지 않기에, 직접 `<u></u>` 태그를 사용하세요.
 
-![고양이](https://github.com/user-attachments/assets/60b6b36e-50b6-4cd1-8b74-3acd8894f1f4)
+![고양이](https://github.com/user-attachments/assets/60b6b36e-50b6-4cd1-8b74-3acd8894f1f4 "야옹")
 
 <img src="https://github.com/user-attachments/assets/60b6b36e-50b6-4cd1-8b74-3acd8894f1f4" alt="고양이" width="200px">
